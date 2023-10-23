@@ -1,0 +1,5 @@
+*Establish protocols for handling sensitive customer information.
+*Implement measures to prevent unauthorized access and data breaches.
+*Specify strong password requirement.
+*Prohibit sharing of login credentials and require individual user accounts.
+*Implement real-time transaction monitoring to detect suspicious activities.

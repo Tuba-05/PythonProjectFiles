@@ -1,0 +1,2 @@
+['ajmal', 'ajmal18$', 'ajmal2006@gmail.com', '+92', '923336578910', 'pakistan', 'pakistan,lahore,zaman park', 'male', '18.0 yrs', '5855488886', '457000.0']
+['asharib', 'ASHarib11%', 'asharib20014@gmail.com', '+92', '923456789043', 'pakistan', 'pakistan,karachi,johar', 'male', '18.0 yrs', '5110410246', '900000']

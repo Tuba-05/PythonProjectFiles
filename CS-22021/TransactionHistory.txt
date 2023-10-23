@@ -1,0 +1,5 @@
+Account number:8247222052=>Deposit amount:350, Time:2023-07-16 11:26:58.804344,Total Balance:25350
+Account number:9007921195=>Deposit amount:489, Time:2023-07-16 11:38:53.640966,Total Balance:45489
+Account number:1170741486=>Withdrawal amount:500, Time:2023-07-16 12:06:26.262960,Total Balance:699500
+Account number:4466027074=>Withdrawal amount:550, Time:2023-07-16 15:13:52.952935,Total Balance:51950
+Account number:5855488886=>Loan duration:12,Initial Loan Balance:500000, Loan Balance left:457000.0, Time:2023-07-16 14:13:32.062378
